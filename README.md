@@ -3,7 +3,7 @@
 **Habits Tracker** is the final project of the Full Stack Bootcamp at 4Geeks Academy, developed by me and my teammates.  
 It’s an application designed to register and track daily healthy habits, focusing on **sleep, nutrition, and exercise**.
 
-## Features
+## ✨ Features
 
 - Daily registration of healthy habits  
 - Statistics and progress charts  
@@ -35,3 +35,24 @@ It’s an application designed to register and track daily healthy habits, focus
 
 ### Profile
 ![Profile](./screenshots/profile.JPG)
+
+## 🚀 Installation & Usage
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/usuario/habits-tracker.git
+
+cd habits-tracker
+npm install
+npm run start
+
+cd api
+pipenv install
+pipenv run start
+```
+
+## 👨‍💻 Authors
+- [Antonio Borrero](https://github.com/Antonio-Borrero)  
+- [Ruben Fajardo](https://github.com/RubFajardo)  
+- [Daniela Padilla](https://github.com/danipadi13)
+
