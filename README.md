@@ -1,3 +1,5 @@
+[Español](README.es.md) | English
+
 # Habits Tracker
 
 **Habits Tracker** is the final project of the Full Stack Bootcamp at 4Geeks Academy, developed by me and my teammates.  
