@@ -11,8 +11,8 @@ Es una aplicación diseñada para registrar y hacer seguimiento de hábitos salu
 - Registro diario de hábitos saludables  
 - Estadísticas y gráficos de progreso  
 - Vista de calendario para consultar entradas de hábitos  
-- Registro de récords personales (ej. correr 20 km)  
-- Definición de metas semanales  
+- Registro de récords personales
+- Establecimiento de metas semanales  
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -54,7 +54,7 @@ pipenv install
 pipenv run start
 ```
 
-## 👨‍💻 Authores
+## 👨‍💻 Autores
 - [Antonio Borrero](https://github.com/Antonio-Borrero)
 - [Ruben Fajardo](https://github.com/RubFajardo)
 - [Daniela Padilla](https://github.com/danipadi13)
